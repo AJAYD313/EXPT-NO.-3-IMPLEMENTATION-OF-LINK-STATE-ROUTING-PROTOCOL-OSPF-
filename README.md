@@ -4,10 +4,13 @@
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED
+<img width="899" height="868" alt="image" src="https://github.com/user-attachments/assets/b1f8ae1c-325a-48db-a56e-0778f39afafa" />
 
 # IP ASSIGNMENT
+<img width="899" height="576" alt="image" src="https://github.com/user-attachments/assets/038acdd5-a01e-482c-bf0e-554d55e40215" />
 
 # NETWORK DIAGRAM
+<img width="1118" height="524" alt="image" src="https://github.com/user-attachments/assets/bfa196cd-13a9-4747-98ba-03f5bf60666a" />
 
 
 # PROCEDURE
@@ -23,6 +26,7 @@ STEP 11: Check the routing table in Delhi router and Chennai router using show i
 
 # OUTPUT
 
+<img width="1369" height="899" alt="image" src="https://github.com/user-attachments/assets/7c560268-c03b-40f3-8ccb-89b7f1b1a180" />
 
 
 # RESULT
